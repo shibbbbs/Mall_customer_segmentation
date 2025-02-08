@@ -1,1 +1,1 @@
-# Mall_customer_segmentation
+# Mail_customer_segmentation
